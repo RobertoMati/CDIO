@@ -40,3 +40,5 @@ if (humedad < menor){
 }
 return humedad;
 }
+
+//Este programa ha sido realizado por Roberto Matilla y Álvaro Fernández, y perfeccionado por Joan Altur.
