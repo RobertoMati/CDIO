@@ -1,2 +1,2 @@
 # CDIO
-Codi de cada sensor
+Código de cada sensor
